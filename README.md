@@ -1,1 +1,1 @@
-# DataAnalysisProject
+# 솔브레인홀딩스 데이터 분석 역량 함양 교육
